@@ -1,0 +1,7 @@
+date,region,sales,customers
+2023-07,North,1000,50
+2023-08,North,800,40
+2023-09,North,600,30
+2023-07,South,1200,60
+2023-08,South,1100,55
+2023-09,South,1000,50
